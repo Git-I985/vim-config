@@ -8,4 +8,4 @@ My basic config for vim
 
 - ```git clone https://github.com/Git-I985/vim-config.git```
 
-- replace your .vimrc by cloned .vimrc file
+- replace your `.vimrc` by cloned `.vimrc` file
